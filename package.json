@@ -2,6 +2,7 @@
   "name": "starter",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@8.6.0",
   "description": "",
   "author": "Guany",
   "license": "MIT",
