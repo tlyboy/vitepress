@@ -17,7 +17,7 @@ export default defineConfig({
     theme: 'vitesse-dark',
     lineNumbers: true,
   },
-  title: 'VitePress',
+  title: 'starter',
   themeConfig: {
     logo: '/img/logo.svg',
     siteTitle: 'starter',
@@ -27,6 +27,7 @@ export default defineConfig({
         link: '/guide/',
       },
     ],
+    outlineTitle: '在本页',
     socialLinks: [
       {
         icon: 'github',
