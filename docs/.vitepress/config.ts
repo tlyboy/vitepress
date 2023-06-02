@@ -23,6 +23,10 @@ export default defineConfig({
     siteTitle: 'starter',
     nav: [
       {
+        text: '首页',
+        link: '/',
+      },
+      {
         text: '文档简介',
         link: '/guide/',
       },
