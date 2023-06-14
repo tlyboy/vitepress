@@ -2,7 +2,7 @@
   "name": "starter",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@8.6.1",
+  "packageManager": "pnpm@8.6.2",
   "description": "",
   "author": "Guany",
   "license": "MIT",
@@ -14,9 +14,9 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.4",
+    "@antfu/eslint-config": "^0.39.5",
     "eslint": "^8.42.0",
-    "vitepress": "1.0.0-beta.1",
+    "vitepress": "1.0.0-beta.2",
     "vue": "^3.3.4"
   }
 }
